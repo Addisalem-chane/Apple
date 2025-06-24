@@ -4,11 +4,7 @@ A clean and responsive clone of the official Apple website homepage, built using
 
 ## 🚀 Live Demo
 
-🔗 [View on Netlify](https://your-addisapple.netlify.app)
-
-## 📸 Screenshot
-
-![Apple Clone Screenshot](images/screenshot.png)
+🔗 [View on Netlify](https://[https://adiappl.netlify.app/]
 
 ## 🛠️ Technologies Used
 
